@@ -8,7 +8,7 @@
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
-  "homepage": "https://varuntangalla.github.io/recipeapp",
+  "homepage": "https://varuntangalla.github.io/Recipeapp",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
